@@ -1,0 +1,14 @@
+lims:
+  host: igolims.mskcc.org:8443
+  username: 
+  password: 
+  publisher_topic:
+nats:
+  url:
+  consumer_name:
+  consumer_password:
+  keystore_path:
+  truststore_path:
+smile:
+  request_url:
+  publisher_topic:
