@@ -1,15 +1,15 @@
 //go:build integration
 
 // can run test from app root as following:
-// go test -tags integration ./smile
+// go test -tags integration ./smile -smilerequesturl=http://plvicmometadb1.mskcc.org:3000/request/
 package smile
 
 import (
 	"encoding/json"
 	"flag"
 	"github.com/google/go-cmp/cmp"
+	igo "github.com/mskcc/smile-commons/types/igo/v1"
 	"github.com/mskcc/smile_message_publisher_go/types"
-	igo "github.com/mskcc/smile_types/igo/v1"
 	"google.golang.org/protobuf/testing/protocmp"
 	"io/ioutil"
 	"os"
