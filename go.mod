@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/google/go-cmp v0.5.8
 	github.com/jinzhu/copier v0.3.5
+	github.com/mskcc/smile-commons v0.0.0-20220705225042-ddac39ed6bb3
 	github.com/mskcc/smile_messaging_go v0.0.0-20220609175058-4be6b067ece9
-	github.com/mskcc/smile_types v0.0.0-20220613191359-409a645cce28
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
 	google.golang.org/protobuf v1.28.0
