@@ -1,4 +1,4 @@
-module github.com/mskcc/smile_message_publisher_go
+module github.com/mskcc/smile-message-publisher-go
 
 go 1.17
 
@@ -6,7 +6,8 @@ require (
 	github.com/google/go-cmp v0.5.8
 	github.com/jinzhu/copier v0.3.5
 	github.com/mskcc/smile-commons v0.0.0-20220705225042-ddac39ed6bb3
-	github.com/mskcc/smile_messaging_go v0.0.0-20220609175058-4be6b067ece9
+	github.com/mskcc/smile-messaging-go v0.0.0-20220706203321-1d282220b107
+	github.com/mskcc/smile_message_publisher_go v0.0.0-20220705230247-68c08294d896
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
 	google.golang.org/protobuf v1.28.0
@@ -15,11 +16,9 @@ require (
 require (
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/klauspost/compress v1.15.6 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
-	github.com/minio/highwayhash v1.0.2 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/nats-io/jwt/v2 v2.2.0 // indirect
+	github.com/mskcc/smile_messaging_go v0.0.0-20220609175058-4be6b067ece9 // indirect
 	github.com/nats-io/nats.go v1.16.0 // indirect
 	github.com/nats-io/nkeys v0.3.0 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
@@ -36,5 +35,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
-
-replace github.com/mskcc/smile_types => ../../cmo/n1zea_smile_types
