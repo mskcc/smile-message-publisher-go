@@ -9,7 +9,7 @@ import (
 	"flag"
 	"github.com/google/go-cmp/cmp"
 	igo "github.com/mskcc/smile-commons/types/igo/v1"
-	"github.com/mskcc/smile_message_publisher_go/types"
+	"github.com/mskcc/smile-message-publisher-go/types"
 	"google.golang.org/protobuf/testing/protocmp"
 	"io/ioutil"
 	"os"
@@ -50,8 +50,8 @@ func TestLimsFetcher_fetchDeliveriesByData(t *testing.T) {
 	if err != nil {
 		t.Error("Unexpected error: ", err)
 	}
-	if len(reqIds) != 2 {
-		t.Error("incorrect result: expected 2, got", len(reqIds))
+	if len(reqIds) != 1 {
+		t.Error("incorrect result: expected 1, got", len(reqIds))
 	}
 }
 

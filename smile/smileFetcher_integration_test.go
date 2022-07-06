@@ -9,7 +9,7 @@ import (
 	"flag"
 	"github.com/google/go-cmp/cmp"
 	igo "github.com/mskcc/smile-commons/types/igo/v1"
-	"github.com/mskcc/smile_message_publisher_go/types"
+	"github.com/mskcc/smile-message-publisher-go/types"
 	"google.golang.org/protobuf/testing/protocmp"
 	"io/ioutil"
 	"os"

@@ -1,0 +1,54 @@
+{
+    "igoId": "13370_1",
+    "cmoSampleName": "",
+    "sampleName": "424_1_gRNA_A",
+    "cmoSampleClass": "",
+    "cmoPatientId": "",
+    "investigatorSampleId": "424_1_gRNA_A",
+    "oncoTreeCode": null,
+    "tumorOrNormal": "Normal",
+    "tissueLocation": "",
+    "specimenType": "",
+    "sampleOrigin": "",
+    "preservation": "",
+    "collectionYear": "",
+    "sex": "",
+    "species": "Human",
+    "tubeId": "",
+    "cfDNA2dBarcode": null,
+    "baitSet": "null",
+    "qcReports": [],
+    "libraries": [
+        {
+            "barcodeId": null,
+            "barcodeIndex": null,
+            "libraryIgoId": null,
+            "libraryVolume": null,
+            "libraryConcentrationNgul": null,
+            "dnaInputNg": null,
+            "captureConcentrationNm": null,
+            "captureInputNg": null,
+            "captureName": null,
+            "runs": [
+                {
+                    "runMode": null,
+                    "runId": "PEPE_0041",
+                    "flowCellId": "AAWFKWM5",
+                    "readLength": null,
+                    "runDate": "2022-06-29",
+                    "flowCellLanes": [],
+                    "fastqs": [
+                        "/igo/delivery/FASTQ/PEPE_0041_AAAWFKWM5/Project_13370/Sample_424_1_gRNA_A_IGO_13370_1/424_1_gRNA_A_IGO_13370_1_S1_L001_R1_001.fastq.gz",
+                        "/igo/delivery/FASTQ/PEPE_0041_AAAWFKWM5/Project_13370/Sample_424_1_gRNA_A_IGO_13370_1/424_1_gRNA_A_IGO_13370_1_S1_L001_R2_001.fastq.gz"
+                    ]
+                }
+            ]
+        }
+    ],
+    "cmoSampleIdFields": {
+        "naToExtract": "",
+        "normalizedPatientId": "",
+        "sampleType": "Pooled Library",
+        "recipe": "10X_Genomics_GeneExpression"
+    }
+}
