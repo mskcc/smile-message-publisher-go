@@ -1,4 +1,4 @@
-# smile_message_publisher_go
+# smile-message-publisher-go
 
 ## Basic Usage
 
