@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/mskcc/smile_message_publisher_go/lims"
-	"github.com/mskcc/smile_message_publisher_go/smile"
-	"github.com/mskcc/smile_message_publisher_go/types"
+	"github.com/mskcc/smile-message-publisher-go/lims"
+	"github.com/mskcc/smile-message-publisher-go/smile"
+	"github.com/mskcc/smile-message-publisher-go/types"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
 	"log"
