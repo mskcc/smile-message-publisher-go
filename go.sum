@@ -306,6 +306,10 @@ github.com/mskcc/smile-commons v0.0.0-20220705225042-ddac39ed6bb3 h1:6vWPHhT22Rv
 github.com/mskcc/smile-commons v0.0.0-20220705225042-ddac39ed6bb3/go.mod h1:ENUoGsM1rBfomAvyn3TqtvpL48d5azgTWVEvnuPWLcc=
 github.com/mskcc/smile-messaging-go v0.0.0-20220706203321-1d282220b107 h1:J9gynmUD9WUXhCLZUNR9oKuySnyAwONW8srex53A2uE=
 github.com/mskcc/smile-messaging-go v0.0.0-20220706203321-1d282220b107/go.mod h1:AloefbwdgcusKWvO7IZTghd1HxbGL+Er8XQKjWuHe3Y=
+github.com/mskcc/smile-messaging-go v0.0.0-20220721195346-9e792e7ebb47 h1:Ho/2PvSfknJWjpC5BTJNraUuS7T/4YxEp2v94EKQtwc=
+github.com/mskcc/smile-messaging-go v0.0.0-20220721195346-9e792e7ebb47/go.mod h1:f2usVpBTDTaEyXXaBAAkCakIbZDc6CtbuQ45+7yGFmI=
+github.com/mskcc/smile-messaging-go v0.0.0-20220721210758-c7937d4fd97d h1:zxajKVrLqHLZhDBscWOdDc8G63N+SGTqeJox/+bJs3o=
+github.com/mskcc/smile-messaging-go v0.0.0-20220721210758-c7937d4fd97d/go.mod h1:8dKkb8yE64aBV0i0vJ6bABiD77BSlO4C0Wf7cWissD0=
 github.com/mskcc/smile_message_publisher_go v0.0.0-20220705230247-68c08294d896 h1:pscW9tdON3fGBwK9iv8ZNOQswF4W5wM9X/fXNTPrD3I=
 github.com/mskcc/smile_message_publisher_go v0.0.0-20220705230247-68c08294d896/go.mod h1:u1LmENbPcTZHnKqqZEu1pLdAGZav5c3Kjc87ttTmFT4=
 github.com/mskcc/smile_messaging_go v0.0.0-20220609175058-4be6b067ece9 h1:IS6Ma2SxTi0rYwGlVMS48/7SyrUirpPM52hJgWUrbKI=
@@ -423,6 +427,8 @@ golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa/go.mod h1:GvvjBRRGRdwPK5y
 golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 h1:kUhD7nTDoI3fVd9G4ORWrbV5NY0liEs/Jg2pv5f+bBA=
 golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d h1:sK3txAijHtOK88l68nt020reeT1ZdKLIYetKl95FzVY=
+golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/exp v0.0.0-20190121172915-509febef88a4/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20190306152737-a1d7652674e8/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20190510132918-efd6b22b2522/go.mod h1:ZjyILWgesfNpC6sMxTJOJm9Kp84zZh5NQWvqDGG3Qr8=
